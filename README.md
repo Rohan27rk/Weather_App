@@ -76,4 +76,4 @@ If you want to contribute to this project, please follow these guidelines:
 For any questions or inquiries, please contact:
 
 - **Email**: kanegaonkarrohan@gmail.com
-- **GitHub**: https://github.com/Rohan27rk/
+- **GitHub**: https://github.com/Rohan27rk
